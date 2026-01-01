@@ -1,13 +1,13 @@
 import { useRef, useState, useMemo } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial, Text, Float } from "@react-three/drei";
+// @ts-ignore
 import * as random from "maath/random/dist/maath-random.esm";
 import * as THREE from "three";
 
 // Fallback if maath fails to load types
-// @ts-ignore
 function Stars(props: any) {
-    const ref = useRef<any>();
+    const ref = useRef<any>(null);
     const [sphere] = useState(() => random.inSphere(new Float32Array(3000), { radius: 1.5 }));
 
     useFrame((state, delta) => {
