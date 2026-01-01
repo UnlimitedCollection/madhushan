@@ -1,0 +1,278 @@
+{
+    "name": "RAMISHKA MADHUSHAN",
+    "headline": "PROJECT MANAGEMENT INTERN",
+    "contact": {
+        "phone": "+94 702332255",
+        "email": "iamramishka@gmail.com",
+        "linkedin": "linkedin.com/in/iamramishka",
+        "github": "github.com/iamramishka"
+    },
+    "professional_summary": "Highly motivated Computer Science undergraduate with a strong background in Database Management, software development, and sustainable development initiatives. Skilled in leading cross-functional teams, managing project lifecycles, and delivering impactful solutions in both technical and community-focused environments. Experienced in stakeholder engagement, financial resource management, and event coordination, with proven success in building strategic partnerships and driving organizational goals. Certified in Google Project Management, Agile, and IT Support, with hands-on experience in software engineering, data analytics, and cloud-based solutions. Adept at combining technical expertise with leadership to deliver projects that create measurable value and long-term impact.",
+    "core_competencies": {
+        "technical_and_project_management_skills": [
+            "Python",
+            "Java",
+            "C#",
+            "Js",
+            "PHP",
+            "MySQL",
+            "MongoDB",
+            "Jira",
+            "Asana",
+            "Git",
+            "Project Planning & Scheduling",
+            "Performance Reporting",
+            "Resource Allocation",
+            "Financial Management",
+            "Agile & Scrum Methodologies",
+            "Tableau",
+            "R",
+            "PowerBI",
+            "GCloud",
+            "AWS",
+            "MS Azure",
+            "Figma"
+        ],
+        "soft_skills": [
+            "Leadership & Teamwork",
+            "Strategic Thinking",
+            "Problem Solving",
+            "Time Management",
+            "Adaptability",
+            "Communication & Negotiation"
+        ],
+        "tools": [
+            "Jira",
+            "Asana",
+            "MS Project",
+            "ClickUp / Notion",
+            "Trello / Slack",
+            "GitHub",
+            "Google Workspace",
+            "Microsoft 365"
+        ]
+    },
+    "education": [
+        {
+            "institution": "Sabaragamuwa University of Sri Lanka",
+            "location": "Belihuloya, Sri Lanka",
+            "degree": "BSC (HONS) IN COMPUTER SCIENCE AND TECHNOLOGY (UNDERGRADUATE)",
+            "dates": "2021 - 2025 (Expected)"
+        },
+        {
+            "institution": "St. Thomas College",
+            "location": "Matara, Sri Lanka",
+            "level": "HIGH SCHOOL",
+            "dates": "2015 - 2018"
+        }
+    ],
+    "professional_experience": [
+        {
+            "title": "Field Data Analyst (Consultant)",
+            "company": "ETC Lanka (Pvt) Ltd (Rabo Foundation Project)",
+            "location": "Sri Lanka",
+            "dates": "05/2025 – 08/2025",
+            "responsibilities_and_achievements": [
+                "Conducted field studies to evaluate a prototype ultrasonic monkey repellent in Fairtrade-certified coconut plantations.",
+                "Collected and analyzed observational data using KoboToolbox, focusing on behavioral patterns and device effectiveness.",
+                "Delivered weekly and final reports, providing actionable recommendations for product refinement.",
+                "Participated in team discussions, stakeholders and presentations, aligning findings with project goals and stakeholder expectations."
+            ]
+        },
+        {
+            "title": "Project Manager, Marketing Project",
+            "project_name": "Empowering Sri Lankan Communities Through Fairtrade Sri Lankan Market",
+            "company": "Fairtrade Network of Asia & Pacific Producers",
+            "location": "Singapore",
+            "dates": "03/2024 - 09/2024",
+            "responsibilities_and_achievements": [
+                "Led Fairtrade awareness campaigns across 12 locations in Sri Lanka, coordinating with export companies and managing all event logistics including promotional outreach, venue setup, and live cooking demos.",
+                "Successfully introduced Fairtrade certification to new audiences, boosted community engagement, and built strategic partnerships that enhanced Fairtrade’s visibility and consumer trust in sustainable trade practices."
+            ]
+        },
+        {
+            "title": "Program Assistant (Sri Lanka)",
+            "company": "Fairtrade Network of Asia & Pacific Producers",
+            "location": "Singapore",
+            "dates": "07/2022 - 01/2023",
+            "responsibilities_and_achievements": [
+                "Coordinated consultations to develop Youth and Gender Strategies, aligning with organizational objectives.",
+                "Compiled case stories and a picture bank, contributing impactful stories per person to highlight key outcomes.",
+                "Prepared detailed reports and updates, facilitating effective stakeholder decision-making.",
+                "Supported country consultants in Social Compliance tasks, ensuring ethical and regulatory adherence."
+            ]
+        },
+        {
+            "title": "Fairtrade Youth Ambassador (Sri Lanka)",
+            "company": "Fairtrade International",
+            "location": "Bonn, Germany",
+            "dates": "05/2022 - Present",
+            "responsibilities_and_achievements": [
+                "Collaborated with international youth networks to promote responsible consumer behavior.",
+                "Participated in leadership, advocacy, and public speaking workshops to enhance communication and policy influence skills.",
+                "Gained knowledge of international and EU policies, contributing to efforts to promote fair trade.",
+                "Represented Fairtrade at forums including the European Parliament, UN Climate COPs, and local/national events, advocating for equitable trade practices.",
+                "Shared expertise and experiences to influence policy changes for a fairer trade system."
+            ]
+        },
+        {
+            "title": "Bank Staff Trainee",
+            "company": "Bank of Ceylon",
+            "location": "Sri Lanka",
+            "dates": "09/2019 - 04/2020",
+            "responsibilities_and_achievements": [
+                "Provided customer service support, enhancing communication and interpersonal skills.",
+                "Collaborated with the Personal Banking Operations (PBO) Section, gaining exposure to banking processes and operations.",
+                "Developed teamwork skills while assisting in daily bank activities and client interactions."
+            ]
+        }
+    ],
+    "academic_projects": [
+        {
+            "category": "Image Classification Projects",
+            "projects": [
+                {
+                    "name": "Dog Breed Classifier",
+                    "description": "Used a pre-trained image classifier to identify dog breeds, showcasing proficiency in transfer learning and fine-tuning machine learning models.",
+                    "link": "https://github.com/iamramishka/Pre_Trained_Image_Classifier_to_Identify_Dog_Breeds"
+                },
+                {
+                    "name": "Custom Image Classifier",
+                    "description": "Designed and implemented a state-of-the-art custom image classification application using PyTorch, demonstrating expertise in deep learning and neural network design.",
+                    "link": "https://github.com/iamramishka/Own_Image_Classifier"
+                }
+            ],
+            "technologies": [
+                "Python",
+                "PyTorch",
+                "Pre-trained Models",
+                "Transfer Learning",
+                "Neural Networks"
+            ],
+            "program": "Udacity NanoDegree Program"
+        },
+        {
+            "category": "AWS Machine Learning Projects",
+            "projects": [
+                {
+                    "name": "Bike Sharing Predictor",
+                    "description": "Predicted bike-sharing demand using AutoGluon, leveraging automated machine learning to optimize prediction models.",
+                    "link": "https://github.com/iamramishka/Predict-Bike-Sharing-Demand-with-AutoGluon"
+                },
+                {
+                    "name": "Digit Classifier",
+                    "description": "Developed a handwritten digits classifier with PyTorch, implementing deep learning techniques to achieve high accuracy.",
+                    "link": "https://github.com/iamramishka/Predict-Bike-Sharing-Demand-with-AutoGluon"
+                },
+                {
+                    "name": "Social Media Auto-Tagging",
+                    "description": "Created a landmark classification and tagging system for social media, using machine learning to enhance image recognition and metadata tagging.",
+                    "link": "Link to Github"
+                },
+                {
+                    "name": "Scones Unlimited ML Workflow",
+                    "description": "Built a complete machine learning workflow for Scones Unlimited on Amazon SageMaker, automating data preprocessing, model training, and deployment.",
+                    "link": "Link to Github"
+                }
+            ],
+            "technologies": [
+                "AutoGluon",
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "AWS SageMaker",
+                "Model Optimization"
+            ],
+            "program": "Udacity NanoDegree Program"
+        },
+        {
+            "name": "SafeShare Web Extension",
+            "type": "Mini Project",
+            "description": "Developed a secure browser extension that enables users to share login sessions temporarily without compromising security. Utilizes AES encryption for session protection and a timer API to automatically terminate access after a set period. This solution addresses the risks associated with traditional password sharing by providing encrypted, time-limited session sharing for enhanced security and user convenience.",
+            "technologies": [
+                "JavaScript",
+                "AES Encryption",
+                "Timer API",
+                "Web Development",
+                "Browser Extension APIs"
+            ]
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Fairtrade Youth Ambassador (Present)",
+            "organization": "Fairtrade International",
+            "location": "Germany"
+        },
+        {
+            "role": "President (Present)",
+            "organization": "Innovators’ Club",
+            "location": "Sabaragamuwa University of Sri Lanka"
+        },
+        {
+            "role": "Former Junior Treasurer",
+            "organization": "Society of Technological Studies",
+            "location": "Sabaragamuwa University of Sri Lanka"
+        },
+        {
+            "role": "Former Data Collecter and Data Entry",
+            "organization": "Fairtrade Network of Asia & Pacific Producers",
+            "location": "Singapore"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Google Digital Marketing & E-commerce Specialization Certificate",
+            "issuer": "Google",
+            "verification": "Link to Verify"
+        },
+        {
+            "name": "Human Resource Management Specialization Certificate",
+            "issuer": "University of Minnesota",
+            "verification": "Link to Verify"
+        },
+        {
+            "name": "Google Project Management Specialization Certificate",
+            "issuer": "Google",
+            "verification": "Link to Verify"
+        },
+        {
+            "name": "Google IT Support Specialization Certificate",
+            "issuer": "Google",
+            "verification": "Link to Verify"
+        },
+        {
+            "name": "Google Data Analytics Specialization Certificate",
+            "issuer": "Google",
+            "verification": "Link to Verify"
+        },
+        {
+            "name": "Agile Project Management",
+            "issuer": "Google",
+            "verification": "Link to Verify"
+        }
+    ],
+    "achievements": [
+        "Grand Finalist, META 2.0+ Research Competition – Entrepreneurship and Innovation Club & Leo Club, University of Colombo",
+        "Round 01 Passed, Mora UXplore 2.0 - IEEE Student Branch of University of Moratuwa"
+    ],
+    "references_and_recommendations": {
+        "statement": "I certify that the above mentioned particluars are true and accurate to the best of my knowledge.",
+        "referees": [
+            {
+                "name": "Prof. (Dr.) R.M. Kapila Tharanga Rathnayaka",
+                "title": "Dean",
+                "organization": "Faculty of Applied Sciences, Sabaragamuwa University of Sri Lanka",
+                "email": "kapilar@appsc.sab.ac.lk",
+                "phone": "(+94) 716324516"
+            },
+            {
+                "name": "Ms. M.V. Iresha Sanjeewani",
+                "title": "Program Manager",
+                "organization": "Fairtrade Network of Asia & Pacific Producers",
+                "email": "iresha.sanjeewanie@fairtradenapp.org",
+                "phone": "(+94) 710128125"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+.footer {
+    padding: var(--spacing-lg) 0;
+    border-top: 1px solid var(--border-subtle);
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.socials {
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.socialLink {
+    color: var(--text-secondary);
+    transition: color var(--transition-fast);
+}
+
+.socialLink:hover {
+    color: var(--accent-primary);
+}
+
+@media (min-width: 768px) {
+    .inner {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
